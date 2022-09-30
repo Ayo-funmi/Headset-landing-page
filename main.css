@@ -1,0 +1,89 @@
+body {
+    background: rgb(255, 255, 255)
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.title {
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Arial;
+    color: rgb(68, 54, 54);
+    margin: 2em;
+}
+
+.facebook {
+    width: 15px;
+    height: 15px;
+    margin-right: 2em;
+}
+.instagram {
+    width: 15px;
+    height: 15px;
+    margin-right: 2em;
+}
+.whatsapp {
+    width: 15px;
+    height: 15px;
+    margin-right: 2em;
+}
+.left {
+    width: 20px;
+    height: 20px;
+    margin-top: 5em;
+    margin-right: 3em;
+    background-color: whitesmoke;
+}
+.image {
+    width: 250px;
+    margin-top: 5em;
+}
+.right {
+    width: 18px;
+    right: 18px;
+    margin-top: 5em;
+    margin-left: 3em;
+    background-color: whitesmoke;
+}
+.row- {
+    align-items: center;
+    display: flex;
+    margin-left: 3em;
+    
+}
+.choose {
+    display: block;
+    margin: 1em;
+    font-family: Arial;
+    font-size: 2.5rem;
+    
+}
+.lorem {
+    display: flex;
+    width: 350px;
+    margin-left: 5em;
+}
+.text {
+    float: right;
+    
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    vertical-align: text-top;
+}
+.shop {
+    background-color: rgb(1, 0, 0);
+    color: whitesmoke;
+    border: none;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 3em;
+    padding-right: 3em;
+    margin-left: 10em;
+    margin-top: 3em;
+}
